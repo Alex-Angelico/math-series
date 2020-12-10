@@ -46,8 +46,8 @@ def series_calc(num, x=0, y=1):
       return y
     return series_calc(num - 1, x, y) + series_calc(num - 2, x, y)
   else:
-    if num == 0:
-      return x
     if num == 1:
+      return x
+    if num == 2:
       return y
     return series_calc(num - 1, x, y) + series_calc(num - 2, x, y)

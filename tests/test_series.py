@@ -16,6 +16,6 @@ def test_lucas():
 
 def test_series_calc():
   actual = series_calc(9, 2, 1)
-  expected = 76
+  expected = 47
   assert actual == expected
   
