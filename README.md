@@ -14,7 +14,7 @@ Anthony Beaver, Karlo Mangubat, Brandon Gonzalez
 
 ## Open PR
 
-
+https://github.com/Alex-Angelico/math-series/pull/1
 
 ----
 
