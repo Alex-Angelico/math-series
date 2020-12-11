@@ -30,7 +30,7 @@ def lucas(num):
     return 1
   return lucas(num-1) + lucas(num-2)
 
-def series_calc(num, x=0, y=1):
+def sum_series(num, x=0, y=1):
   """
   Arguments:
   num - user-selected sequence value from the special number sequence (e.g. Fibonacci, Lucas) to be calculated by the funciton
